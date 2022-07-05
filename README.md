@@ -1,4 +1,4 @@
-# Github Finder
+# React & Tailwind Image Gallery
 
 A small React project that displays a photo gallery with information about each
 image
